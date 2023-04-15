@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "AH.BonusApp.Client",
@@ -60,9 +60,9 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.7.0.5.ewdtwh792c.js": "sha256-cAU4TpchGvV7AwE4XMen0vML6btMg3A8S5KEFsFAl98=",
+      "dotnet.7.0.5.ewdtwh792c.js": "sha256-9UJcuX5TDUtnUhGpG6FSvSQOayUt5qrgY5yscbU4w\/I=",
       "dotnet.timezones.blat": "sha256-rIVQOJ+gHn4DeRSq6Ac3CURS8YBJG3P4CtYPfIuZ\/kk=",
-      "dotnet.wasm": "sha256-1WZ\/1GE8DZBWBeAeOW7dKCOqpLKZjW4kLwNuMEHIg4s=",
+      "dotnet.wasm": "sha256-3nrtiSBD84SxGVfCwtyQ22HNPgO\/qzWXBq+dqqpb67k=",
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
@@ -71,7 +71,7 @@
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-1WZ\/1GE8DZBWBeAeOW7dKCOqpLKZjW4kLwNuMEHIg4s="
+        "hash": "sha256-3nrtiSBD84SxGVfCwtyQ22HNPgO\/qzWXBq+dqqpb67k="
       }
     },
     "satelliteResources": null
