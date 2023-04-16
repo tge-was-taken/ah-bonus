@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": false,
+  "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "AH.BonusApp.Client",
@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "AH.BonusApp.Client.dll": "sha256-PdvBpiBxEyHK32GaIHSBixX86MrDZGPNPaKCCrqvoaI=",
+      "AH.BonusApp.Client.dll": "sha256-rkKfIpGmK76yvp4xED9gc2U6MYuJNWC5H7fVGV8UmbE=",
       "AH.BonusApp.Shared.dll": "sha256-AhFxOF6e\/H4g4emV0waFhqnr6lg1mrxXJrg2R\/r34dY=",
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-souJKdq+5ZDW+5NGOM0kCi94+Z8VXkB\/7MOFmhZXibo=",
@@ -60,9 +60,9 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.7.0.5.ewdtwh792c.js": "sha256-9UJcuX5TDUtnUhGpG6FSvSQOayUt5qrgY5yscbU4w\/I=",
+      "dotnet.7.0.5.ewdtwh792c.js": "sha256-cAU4TpchGvV7AwE4XMen0vML6btMg3A8S5KEFsFAl98=",
       "dotnet.timezones.blat": "sha256-rIVQOJ+gHn4DeRSq6Ac3CURS8YBJG3P4CtYPfIuZ\/kk=",
-      "dotnet.wasm": "sha256-Ja72wIe12+jb3jxPRV3DuW5aCgST8TpQs55SRvp4lpk=",
+      "dotnet.wasm": "sha256-GF+L+TkdUVKPt5xAOw+DYHcU4X5lKdtI\/wu1zI3fz9I=",
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
@@ -71,7 +71,7 @@
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-Ja72wIe12+jb3jxPRV3DuW5aCgST8TpQs55SRvp4lpk="
+        "hash": "sha256-GF+L+TkdUVKPt5xAOw+DYHcU4X5lKdtI\/wu1zI3fz9I="
       }
     },
     "satelliteResources": null

@@ -1,0 +1,15 @@
+﻿.loading-overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.loading-overlay > div {
+    color: #594ae2ff;
+}
+.loading-overlay > p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+}
